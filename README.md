@@ -14,7 +14,7 @@ Binary Search Tree:
    - when node have one child and one NULL
    - when node has both children
  - Triversal:
-  - postOrder
-  - preOrder
-  - inOrder
+   - postOrder
+   - preOrder
+   - inOrder
  - searching
