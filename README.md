@@ -10,10 +10,11 @@ Binary Search Tree:
  - creating Node
  - insertion
  - deletion:
-  - when node have no children
-  - when node have one child and one NULL
-  - when node has both children
- - Printing postOrder
- - Printing preOrder
- - Printing inOrder
- -searching
+   - when node have no children
+   - when node have one child and one NULL
+   - when node has both children
+ - Triversal:
+  - postOrder
+  - preOrder
+  - inOrder
+ - searching
